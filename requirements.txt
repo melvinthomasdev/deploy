@@ -35,7 +35,7 @@ mysql-connector-python==8.0.13
 numpy==1.17.2
 packaging==20.0
 pathspec==0.5.9
-pipenv==2018.11.26
+pipenv==2022.1.8
 pluggy==0.13.1
 protobuf==3.11.2
 psycopg2==2.8.4
